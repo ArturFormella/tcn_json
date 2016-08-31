@@ -1,0 +1,5 @@
+# tcn_json extension
+comment = 'Triggered change notifications'
+default_version = '1.1'
+module_pathname = '$libdir/tcn_json'
+relocatable = true
